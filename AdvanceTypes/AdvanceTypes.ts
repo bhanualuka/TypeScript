@@ -92,3 +92,15 @@ const User: user = {
 type mult = string | number | boolean;
 
 let Multmessage: mult = 6546545;
+
+// unkown vs any
+
+// unknown
+let username: unknown = "Bhanu";
+
+let anotherUserName: string = username as string;
+
+// any
+let usernumber: any = 20;
+
+let anotherUsernumber: string = usernumber;

@@ -35,7 +35,7 @@ MultipleTypes = 10;
 MultipleTypes = "HelloUnion";
 //  enum
 /*
-An enum (short for "enumeration") is a special type in TypeScript that allows you to store a collection of related values (like a list of options) under a single name.
+An enum (short for "enumeration") is a special type in TypeScript that allows you to store a collection of related values which are constants only(like a list of options) under a single name.
 
 Why use an enum?
 It makes your code more readable.

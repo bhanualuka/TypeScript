@@ -49,3 +49,10 @@ const User = {
     isAttended: true,
 };
 let Multmessage = 6546545;
+// unkown vs any
+// unknown
+let username = "Bhanu";
+let anotherUserName = username;
+// any
+let usernumber = 20;
+let anotherUsernumber = usernumber;
